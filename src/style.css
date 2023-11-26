@@ -1,0 +1,61 @@
+.document {
+  border: solid 2px;
+  background: linear-gradient(
+    89deg,
+    rgb(21, 74, 189) 0.1%,
+    rgb(26, 138, 211) 51.5%,
+    rgb(72, 177, 234) 100.2%
+  );
+}
+#change-city {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+}
+h1 {
+  text-align: right;
+  position: relative;
+  top: 55px;
+  right: 50px;
+  font-size: 40px;
+  color: white;
+}
+h2 {
+  text-align: center;
+  position: relative;
+  right: 50px;
+  color: white;
+}
+h3 {
+  text-align: left;
+  position: relative;
+  bottom: 110px;
+  left: 30px;
+  font-size: 150px;
+}
+h4 {
+  color: azure;
+  font-size: 20px;
+  font-weight: 100;
+  text-align: right;
+  position: relative;
+  top: -200px;
+  right: 30px;
+}
+hr {
+  position: relative;
+  top: -40px;
+}
+.row {
+  font-size: 50px;
+  position: relative;
+  top: -30px;
+}
+.day {
+  position: relative;
+  left: 15px;
+  font-size: 20px;
+  color: white;
+}
